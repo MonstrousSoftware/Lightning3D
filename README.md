@@ -5,6 +5,7 @@ Click with the mouse somewhere to make new lightning bolts.
 Use WASD keys to move around.
 
 
+![screenshot](https://github.com/MonstrousSoftware/Lightning3D/assets/49096535/58640b8e-f1a7-4608-84ed-b0438eaab555)
 
 
 
